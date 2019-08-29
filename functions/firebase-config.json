@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "id_project",
+  "private_key_id": "keyid",
+  "private_key": "privatekey",
+  "client_email": "emailfirebase",
+  "client_id": "clietid",
+  "auth_uri": "auth",
+  "token_uri": "tokenuri",
+  "auth_provider_x509_cert_url": "uricerts",
+  "client_x509_cert_url": "urlaccount"
+}
